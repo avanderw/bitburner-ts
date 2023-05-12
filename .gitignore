@@ -1,0 +1,7 @@
+node_modules/
+dist/
+NetscriptDefinitions.d.ts
+**/*.mp4
+**/*.gif
+**/*.png
+**/*.zst
